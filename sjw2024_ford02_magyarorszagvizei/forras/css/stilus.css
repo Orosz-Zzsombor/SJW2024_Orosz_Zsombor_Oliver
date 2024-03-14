@@ -7,7 +7,9 @@
     margin: 0;
     padding: 0;
 }
-body{
+img{
+    width: 30vw;
+    height: 30vh;
    
 }
 nav{
@@ -16,6 +18,10 @@ nav{
 div > a{
     color:#1283b9 ;
     padding: 1,5em;
+}
+#szoveg{
+    margin-left: 5vw;
+    margin-right: 1vw;
 }
 
 header{
@@ -28,4 +34,17 @@ header{
 header>div{
     text-shadow: 2px 2px black;
     font-family: "Marhey", sans-serif;
+}
+.row{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+span{
+    border-bottom: solid 2px ;
+    font-family: "Marhey", sans-serif;
+}
+.toKep{
+    border:solid 2px  #1283b9;
+    border-radius: 10px;
 }
