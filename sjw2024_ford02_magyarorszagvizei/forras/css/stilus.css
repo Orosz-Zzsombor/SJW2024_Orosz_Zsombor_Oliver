@@ -48,3 +48,15 @@ span{
     border:solid 2px  #1283b9;
     border-radius: 10px;
 }
+#sotetkek{
+    background-color:#06435f; ;
+}
+#vilagoskek{
+    background-color: #1283b9;
+}
+table {
+    border-collapse: collapse;
+  }
+.szin{
+    color: #06435f;
+}
